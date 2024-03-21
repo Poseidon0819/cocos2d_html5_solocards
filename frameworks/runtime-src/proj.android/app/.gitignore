@@ -1,0 +1,7 @@
+.project
+bin
+*.iml
+release
+.externalNativeBuild
+/build
+/jniLibs
